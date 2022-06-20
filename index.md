@@ -1,2 +1,2 @@
-# tek967.github.io
-jekyll blog
+# easontek2398's blog
+visit the [blog](/blog) route
